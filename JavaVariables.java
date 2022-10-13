@@ -23,5 +23,7 @@ public class JavaVariables {
         //exercises 5
         int x5 = 5, y5 = 6, z5 = 50;
         System.out.println(x5 + y5 + z5);
+
+        
     }
 }
