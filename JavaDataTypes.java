@@ -14,6 +14,7 @@ public class JavaDataTypes {
         System.out.println(myBool);
         System.out.println(myText);
 
+        
         // EXERCICIO 2
         System.out.println("byte, short, int, long, float, double, booleane charsão chamados:");
         System.out.println("PRIMITIVE DATA TYPES.");
