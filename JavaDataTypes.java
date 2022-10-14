@@ -18,7 +18,7 @@ public class JavaDataTypes {
         System.out.println("byte, short, int, long, float, double, booleane charsão chamados:");
         System.out.println("PRIMITIVE DATA TYPES.");
 
-        // EXERCICIO 3.
+        // EXERCICIO 3...
         double myDouble = 9.78d;
         int myInt = (int) myDouble;
         System.out.println(myInt);
